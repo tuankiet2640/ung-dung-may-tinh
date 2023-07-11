@@ -1,6 +1,6 @@
 let a;
 let b;
-
+ 
 function add() {
   a = document.querySelector("#a").value;
   a = Number(a);
